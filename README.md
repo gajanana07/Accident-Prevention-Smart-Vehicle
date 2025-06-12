@@ -196,6 +196,8 @@ Once completed, your accident-prevention smart car is ready for real-time testin
   </tr>
 </table>
 
+For video demo visit this site: https://accident-prevention.netlify.app
+
 
 ##  Future Enhancements
 
