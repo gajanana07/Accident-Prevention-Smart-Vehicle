@@ -138,6 +138,65 @@ Once completed, your accident-prevention smart car is ready for real-time testin
 | Bluetooth Module  | Built-in ESP32 support for Bluetooth commands         |
 
 ## Screenshots
+
+### Vehicle View
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/gajanana07/Accident-Prevention-Smart-Vehicle/blob/main/Pictures/front_view.jpg" height="250"><br>
+      <b>Front View</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gajanana07/Accident-Prevention-Smart-Vehicle/blob/main/Pictures/top_view.jpg" height="250"><br>
+      <b>Top View</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gajanana07/Accident-Prevention-Smart-Vehicle/blob/main/Pictures/side_view.jpg" height="250"><br>
+      <b>Side View</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Vehicle in Action
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/gajanana07/Accident-Prevention-Smart-Vehicle/blob/main/Pictures/car_in_motion.jpg" height="250"><br>
+      <b>Normal Operation</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gajanana07/Accident-Prevention-Smart-Vehicle/blob/main/Pictures/car_slowing_down.jpg" height="250"><br>
+      <b>Obstacle Detected</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gajanana07/Accident-Prevention-Smart-Vehicle/blob/main/Pictures/car_stopped.jpg" height="250"><br>
+      <b>Auto-Braking</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Blind Spot Alerts
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/gajanana07/Accident-Prevention-Smart-Vehicle/blob/main/Pictures/obstacle_on_left.jpg" height="250"><br>
+      <b>Left Blind Spot</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gajanana07/Accident-Prevention-Smart-Vehicle/blob/main/Pictures/obstacle_on_right.jpg" height="250"><br>
+      <b>Right Blind Spot</b>
+    </td>
+  </tr>
+</table>
+
+
 ##  Future Enhancements
 
 - Integration with Wi-Fi for remote monitoring and control.
